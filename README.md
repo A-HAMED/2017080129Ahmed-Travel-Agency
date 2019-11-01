@@ -24,4 +24,13 @@ DUTIES
 • Make alternative booking arrangements if changes arise before or during the trip
  This website will be available in Ethiopia 
 
+Technologies
+
+I planned to use
+html
+java script
+front end
+back end
+CSS
+to build this project.
  
