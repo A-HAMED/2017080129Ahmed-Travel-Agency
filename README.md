@@ -26,3 +26,6 @@ TECHNOLOGIES
        .JAVA SCRIPT
        .CSS
 file:///E:/ahmed%20travel/index.html
+https://ahmedkm0.glitch.me/
+EMAIL web@gmail.com
+PASSWORD web1234
